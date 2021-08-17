@@ -1,0 +1,6 @@
+PASOS PARA INSTALAR HUGO V0.87
+apt install wget
+wget https://github.com/gohugoio/hugo/releases/download/v0.87.0/hugo_0.87.0_Linux-64bit.deb
+dpkg - i hugo_0.87...
+rm hugo_0.87...
+hugo version
